@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kseco.png" alt="KSECO Logo" width="140" />
+  <img src="assets/kseco.png" alt="KSECO Logo" width="740" />
 </p>
 
 <h1 align="center">📱 KSECO Hotel Mobile App</h1>
