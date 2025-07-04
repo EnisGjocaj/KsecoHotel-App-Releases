@@ -1,8 +1,17 @@
-#KSECO Mobile App – APK Releases
+<p align="center">
+  <img src="assets/kseco.png" alt="KSECO Logo" width="140" />
+</p>
 
-This repository hosts official APK releases of the **KSECO Hotel Mobile App**
+<h1 align="center">📱 KSECO Hotel Mobile App</h1>
+<p align="center"><em>Official APK Releases for Internal Use</em></p>
 
----
+<p align="center">
+  <a href="https://github.com/EnisGjocaj/KsecoHotel-App-Releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/EnisGjocaj/KsecoHotel-App-Releases?label=latest%20release&style=for-the-badge" alt="Latest Release">
+  </a>
+  <img src="https://img.shields.io/badge/platform-Android-green?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/status-Internal%20Use%20Only-orange?style=for-the-badge" alt="Internal Use">
+</p>
 
 ## 📦 Latest Version
 
